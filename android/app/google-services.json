@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406752686542",
+    "project_id": "student-tracker-app-9d44c",
+    "storage_bucket": "student-tracker-app-9d44c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406752686542:android:a3dd4e560641783357bb9f",
+        "android_client_info": {
+          "package_name": "com.company.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxNbPqgxcO06c9dPp6Ds57l3vVS7yW4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
